@@ -3,18 +3,18 @@
 		{
 			"vk": {
 				"token": "a627e66c472c135fd1cf4fbf4ba4bf50ae342231dae00ac789534293a3a678b2115286b94bf16d95c207b",
-				"group_id": "140344361",
+				"group_id": "stalcraftstream",
 				"keywords": [],
 				"filter": true,
 				"longpoll": false,
-				"interval": 5
+				"interval": 10
 			},
 			"discord": {
 				"webhook_urls": [
-					"https://discordapp.com/api/webhooks/718467651734863963/9rpeRhEMHEBxgWCAU4KjtUbKDD2le80jpGMfr8p6T5r4SUAy-f9O6WQzoM92mZNpmvEC",
+					"https://discordapp.com/api/webhooks/718483881145270313/7-c57oGIDAaiLvmFPTtMBhTxLYllzq9GOkZTYqEuG47C-xWmSSxczsrLy0cSalS2Vcrq",
 					"https://discordapp.com/api/webhooks/"
 				],
-				"bot_name": "THHbot",
+				"bot_name": "THH",
 				"color": "#aabbcc"
 			}
 		}
