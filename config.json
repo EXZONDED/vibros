@@ -1,0 +1,23 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "a627e66c472c135fd1cf4fbf4ba4bf50ae342231dae00ac789534293a3a678b2115286b94bf16d95c207b",
+				"group_id": "140344361",
+				"keywords": [],
+				"filter": true,
+				"longpoll": false,
+				"interval": 5
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discordapp.com/api/webhooks/718467651734863963/9rpeRhEMHEBxgWCAU4KjtUbKDD2le80jpGMfr8p6T5r4SUAy-f9O6WQzoM92mZNpmvEC",
+					"https://discordapp.com/api/webhooks/"
+				],
+				"bot_name": "THHbot",
+				"color": "#aabbcc"
+			}
+		}
+	],
+	"version_dont_modify_me": 1
+}
